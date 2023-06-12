@@ -9,6 +9,8 @@ h1 {
 }
 p {
     font-size: 45px;
+    font-style: italic;
+    color: navy;
 }
 body {
     margin: 0;
