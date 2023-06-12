@@ -1,19 +1,23 @@
 html,
 header {
-    color:crimson
+    background-color: aquamarine;
 }
-
+h1 {
+    background-color: grey;
+    text-align: center;
+}
 body {
     margin: 0;
     padding: 0;
+}
+footer {
+    background-color: grey;
 }
 #hello {
     color: green
 }
 
-.container {
-    background-color: aqua;
-}
+
 /* Make the header and footer a different color from the background */
 
 /* Align the h1 containing your name in the center of the header*/
