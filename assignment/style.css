@@ -7,6 +7,12 @@ h1 {
     text-align: center;
     font-size: 45px;
 }
+h3 {
+    size: 1px;
+}
+.bordered-image {
+    border: 2px solid black;
+  }
 p {
     font-size: 45px;
     font-style: italic;
