@@ -13,6 +13,9 @@ h3 {
 .bordered-image {
     border: 2px solid black;
   }
+  .resized-image {
+       size-adjust: 20px;
+  }
 p {
     font-size: 45px;
     font-style: italic;
