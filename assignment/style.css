@@ -1,5 +1,16 @@
-/* Give your page a fun background color */
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
 
+#hello {
+    color: green
+}
+
+.container {
+    background-color: aqua;
+}
 /* Make the header and footer a different color from the background */
 
 /* Align the h1 containing your name in the center of the header*/
