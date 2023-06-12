@@ -1,9 +1,12 @@
 html,
+header {
+    color:crimson
+}
+
 body {
     margin: 0;
     padding: 0;
 }
-
 #hello {
     color: green
 }
